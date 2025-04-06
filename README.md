@@ -34,6 +34,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 
 ![PowerPivot](Analysis/insights.png)
 
+
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
 - **Colors and Soft Toys** generate the highest revenue among product categories.
@@ -46,6 +47,5 @@ This analysis provides key insights that can help **Ferns N Petals** optimize it
 
 ---
 
-**Author:** Rakesh Joshi
 
-**Email:** rakeshgjoshi4@gmail.com
+
