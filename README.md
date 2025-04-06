@@ -28,11 +28,6 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 2. Review the **Problem Statement PDF** to understand the key objectives.
 3. Use the **Screenshots** to get a quick view of the results without opening the Excel file.
 
-## 📸 Dashboard Screenshot
-### 🏷️ Sales Overview  
-![Sales Overview](Analysis/Dashboard.png)
-
-![PowerPivot](Analysis/insights.png)
 
 
 ## 🔍 Insights & Findings
